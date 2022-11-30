@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func mainT2() {
 	var myMap map[string]int
 	fmt.Println(myMap["g"])
 
